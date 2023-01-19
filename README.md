@@ -24,7 +24,7 @@ While catching a fish involves luck, there are certain methods that can increase
 - Pliers
 
 ---
-## **Steps**
+## **Steps:**
 
 ### 1. Prepare and organize your gear
 - Visit a local tackle shop to purchase gear and receive advice
