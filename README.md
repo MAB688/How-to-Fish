@@ -65,7 +65,7 @@ While catching a fish involves luck, there are certain methods that can increase
     - Let the bait sit and watch the tip of your rod for any unusual movement
 - If using a lure:
     - Attempt to emulate the movement of the appropriate insect/fish/vertebrate
-- If you do not feel a fish tugging on the line repeat *step 6* otherwise proceed to *step 7*
+- If you do not feel a fish tugging on the line repeat *step 6* otherwise proceed to *step 8*
 
 ### 8. Set the hook and reel the fish in
 - Pull the rod upwards in one rapid motion to securely hook the fish
