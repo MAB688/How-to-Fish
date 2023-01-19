@@ -56,8 +56,9 @@ While catching a fish involves luck, there are certain methods that can increase
 
 ### 6. Cast
 - Hold the fishing line to the rod above the reel seating
-- Flip the reel's bail
+- Flip the reel's bail open
 - Swing the rod backwards and release the line on the forward swing
+- Flip the reel's bail closed
 
 ### 7. Wait or reel the line in
 - If using bait and a bobber: 
